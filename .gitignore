@@ -1,0 +1,2 @@
+# Ignore generated auth file
+nginx/htpasswd

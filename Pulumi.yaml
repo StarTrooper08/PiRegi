@@ -1,0 +1,4 @@
+name: PiRegi
+runtime: python
+description: Deploy a private and secure container registry on Raspberry Pi using Docker, Nginx, and Portainer with Pulumi.
+
