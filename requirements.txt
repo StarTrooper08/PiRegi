@@ -1,0 +1,4 @@
+pulumi>=3.100.0
+pulumi-docker>=4.2.0
+pulumi-esc>=0.1.0
+docker
